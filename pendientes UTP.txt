@@ -1,4 +1,4 @@
-Pendiente:
+﻿Pendiente:
 Envío de formato de convenios.
 
 Pendiente: Envío de formato de convenios.
@@ -8,3 +8,5 @@ Y partir de ahí los viernes a las 4 p.m.
 
 
 modificado
+
+ALDO MODIFICACION 4:33
